@@ -1,11 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-
 function App() {
-  return (
-    <h1>Funciona!</h1>
-  );
+  return <h1>Funciona e atualiza automaticamente!</h1>;
 }
 
 const rootElement = document.getElementById("root");
