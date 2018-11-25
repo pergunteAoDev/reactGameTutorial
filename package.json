@@ -1,0 +1,28 @@
+{
+  "name": "reactgametutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.5.2",
+    "react-dom": "16.5.2",
+    "react-scripts": "2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pergunteAoDev/reactGameTutorial.git"
+  },
+  "author": "Fabio Oliveira Costa <fabiocostadev@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/pergunteAoDev/reactGameTutorial/issues"
+  },
+  "homepage": "https://github.com/pergunteAoDev/reactGameTutorial#readme"
+}
